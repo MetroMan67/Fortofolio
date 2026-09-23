@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0b0f0c;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+    color: #39ff88;
+    margin-bottom: 16px;
+}
+
+p {
+    font-size: 20px;
+    color: #b7c4ba;
+}
